@@ -1,6 +1,6 @@
 import tensorflow as tf
 
-flags = tf.app.flags
+flags = tf.flags
 
 
 ############################
